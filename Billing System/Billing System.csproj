@@ -16,7 +16,7 @@
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <UseIISExpress>false</UseIISExpress>
     <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>F:\Web Projects\Billing System\Backup\Billing System\</UpgradeBackupLocation>
+    <UpgradeBackupLocation>F:\Git\Inventory_Management_System\Backup\Billing System\</UpgradeBackupLocation>
     <OldToolsVersion>4.0</OldToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
