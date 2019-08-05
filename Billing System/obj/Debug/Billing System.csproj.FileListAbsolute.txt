@@ -1,0 +1,35 @@
+F:\Web Projects\Billing System\Billing System\bin\Billing System.dll
+F:\Web Projects\Billing System\Billing System\bin\Billing System.pdb
+F:\Web Projects\Billing System\Billing System\bin\BusinessEntity.dll
+F:\Web Projects\Billing System\Billing System\bin\DataLayer.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.Design.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.ObjectBuilder.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.Unity.dll
+F:\Web Projects\Billing System\Billing System\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Web Projects\Billing System\Billing System\bin\BusinessEntity.pdb
+F:\Web Projects\Billing System\Billing System\bin\DataLayer.pdb
+F:\Web Projects\Billing System\Billing System\obj\Debug\Billing System.dll
+F:\Web Projects\Billing System\Billing System\obj\Debug\Billing System.pdb
+F:\Web Projects\Billing System\Billing System\bin\Billing System.dll.config
+F:\Web Projects\Billing System\Billing System\obj\Debug\Billing System.csprojAssemblyReference.cache
+F:\Web Projects\Billing System\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+F:\Web Projects\Billing System\Billing System\obj\Debug\Billing System.csproj.CopyComplete

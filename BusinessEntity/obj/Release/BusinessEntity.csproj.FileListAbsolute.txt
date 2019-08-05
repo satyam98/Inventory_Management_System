@@ -1,0 +1,15 @@
+C:\SmartCourt\BusinessEntity\bin\Release\BusinessEntity.dll
+C:\SmartCourt\BusinessEntity\bin\Release\BusinessEntity.pdb
+C:\SmartCourt\BusinessEntity\obj\Release\ResolveAssemblyReference.cache
+C:\SmartCourt\BusinessEntity\obj\Release\BusinessEntity.dll
+C:\SmartCourt\BusinessEntity\obj\Release\BusinessEntity.pdb
+I:\SmartCourt\BusinessEntity\bin\Release\BusinessEntity.dll
+I:\SmartCourt\BusinessEntity\bin\Release\BusinessEntity.pdb
+I:\SmartCourt\BusinessEntity\obj\Release\ResolveAssemblyReference.cache
+I:\SmartCourt\BusinessEntity\obj\Release\BusinessEntity.dll
+I:\SmartCourt\BusinessEntity\obj\Release\BusinessEntity.pdb
+D:\SmartCourt\BusinessEntity\bin\Release\BusinessEntity.dll
+D:\SmartCourt\BusinessEntity\bin\Release\BusinessEntity.pdb
+D:\SmartCourt\BusinessEntity\obj\Release\ResolveAssemblyReference.cache
+D:\SmartCourt\BusinessEntity\obj\Release\BusinessEntity.dll
+D:\SmartCourt\BusinessEntity\obj\Release\BusinessEntity.pdb
