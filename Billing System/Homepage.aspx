@@ -50,7 +50,7 @@
 			<section id="footer">
 				<div class="inner">			
 					<div class="copyright">
-                    <p>© 2018 Satyam Pandey, Khushbu Kumari. All Rights Reserved</p>
+                    <p>© 2018 Satyam Pandey, Khushbu Kumari. All Rights Reserved!</p>
 					</div>
 				</div>
 			</section>
