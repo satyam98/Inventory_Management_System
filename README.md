@@ -17,4 +17,6 @@ JavaScript
 Connection File:
 Web.Config
 
-https://nhatch.github.io/files/landmarks_report.pdf
+Contributers:
+Satyam Pandey
+Khushbu Kumari
